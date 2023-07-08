@@ -8,6 +8,5 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-Join the channel to see more videos like this. [nickokwesh](https://www.youtube.com/c/Bedimcode)
-
-![preview img](/preview.png)
+-collaborate with me on projects like this, 
+-email me at okwembanickson3525@gmail.com on responsive portfolios and landing pages
