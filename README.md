@@ -1,5 +1,5 @@
 # Responsive Watches Website ⌚
-## [Watch it on youtube](https://youtu.be/QPxYdbbCjhQ)
+## 
 ### Responsive Watches Website ⌚
 
 - Responsive Watches Website Using HTML CSS & JavaScript
@@ -9,4 +9,5 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 -collaborate with me on projects like this, 
+-This project is a responsive design of an e-commerce shop, you can modify it the way you want
 -email me at okwembanickson3525@gmail.com on responsive portfolios and landing pages
