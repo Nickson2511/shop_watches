@@ -44,17 +44,49 @@
   --z-fixed: 100;
 }
 
-@media screen and (min-width: 968px) {
-  :root {
-    --biggest-font-size: 2.5rem;
-    --h1-font-size: 2.25rem;
-    --h2-font-size: 1.5rem;
-    --h3-font-size: 1.25rem;
-    --normal-font-size: 1rem;
-    --small-font-size: .875rem;
-    --smaller-font-size: .813rem;
-  }
+
+/* Mobile Responsiveness */
+@media screen and (max-width: 767px) {
+    body {
+        font-size: 14px;
+    }
+
+    .header {
+        /* Modify header layout for mobile devices */
+    }
+
+    .nav__list {
+        /* Modify navigation list layout for mobile devices */
+    }
+
+    .nav__close,
+    .nav__btns {
+        /* Modify navigation buttons layout for mobile devices */
+    }
+
+    /* Continue adjusting other elements for mobile devices */
 }
+
+/* Tablet Responsiveness */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    body {
+        font-size: 16px;
+    }
+
+    /* Continue adjusting other elements for tablet devices */
+}
+
+/* Desktop Responsiveness */
+@media screen and (min-width: 1024px) {
+    body {
+        font-size: 18px;
+    }
+
+    /* Continue adjusting other elements for desktop devices */
+}
+
+
+
 
 /*=============== BASE ===============*/
 * {
